@@ -15,6 +15,7 @@ site:
           default: true
           content:
             directory: ./about
+            language: zh
     - type: section
       key: section-getting-started
       title: 入门准备
